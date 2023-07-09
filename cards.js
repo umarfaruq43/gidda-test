@@ -1,0 +1,38 @@
+export const cards = [
+    {
+        id: "01GNK0ENSE37PQ2CVJJE13A51D",
+        transaction_type: "Property Purchase",
+        property: "2 Bedroom Apartment with BBQ and Swimming pool",
+        date_added: "22/02/2023, 05:55PM",
+        amount: "₦50,000,000",
+        duration: "1 Year",
+        status: "failed",
+    },
+    {
+        id: "01GNK0ENSE37PQ2CVJJE13A51D",
+        transaction_type: "Property Rental",
+        property: "2 Bedroom Apartment with BBQ and Swimming pool",
+        date_added: "22/02/2023, 05:55PM",
+        amount: "₦50,000,000",
+        duration: "1 Year",
+        status: "success",
+    },
+    {
+        id: "01GNK0ENSE37PQ2CVJJE13A51D",
+        transaction_type: "Property Sale",
+        property: "2 Bedroom Apartment with BBQ and Swimming pool",
+        date_added: "22/02/2023, 05:55PM",
+        amount: "₦50,000,000",
+        duration: "1 Year",
+        status: "pending",
+    },
+    {
+        id: "01GNK0ENSE37PQ2CVJJE13A51D",
+        transaction_type: "Property Purchase",
+        property: "2 Bedroom Apartment with BBQ and Swimming pool",
+        date_added: "22/02/2023, 05:55PM",
+        amount: "₦50,000,000",
+        duration: "1 Year",
+        status: "failed",
+    },
+];
